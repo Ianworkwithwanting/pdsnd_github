@@ -1,7 +1,9 @@
 import time
 import pandas as pd
 import numpy as np
-# for project 
+# for project
+#for step 4
+# for step 4 -2  
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
